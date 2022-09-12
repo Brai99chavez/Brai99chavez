@@ -1,5 +1,5 @@
 
-### Hola! Soy Braian Chavez🙋
+# Hola! Soy Braian Chavez🙋
 Me gusta el desarrollo web desde muy chico y me encanto aprender de este inmenso mundo de la programacion. 
 
 ## ¿Qué me destaca? 
