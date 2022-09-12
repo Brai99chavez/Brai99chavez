@@ -6,8 +6,12 @@ Me gusta el desarrollo web desde muy chico y me encanto aprender de este inmenso
 Soy una persona con unas amplias ganas y capacidad de aprendizaje , aplicable en mi día a día y capaz de adaptarme a los distintos desafíos que se presenten en el camino. Siempre dispuesto a ayudar y aprender de quienes me rodean.
 
 ## Mi historial laboral 
- ► Henry Teaching Assistant 
- mi funcion era guiar, orientar y asistir en los distintos problemas que se les presentan en la 
+### Frontend Developer 
+ - mi funcion era hacer el maquetado y el diseño de la pagina
+ - actualmente esta en funcionamiento: https://institutodeidiomasmglots.com.ar
+
+### Henry Teaching Assistant 
+ - mi funcion era guiar, orientar y asistir en los distintos problemas que se les presentan en la 
  cursada diaria 
 
 ## ¿Cuáles son mis Tech Skills? 
