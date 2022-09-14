@@ -22,7 +22,7 @@ Soy una persona con unas amplias ganas y capacidad de aprendizaje , aplicable en
 - PostreSQL, Sequelize 
 - Php, Laravel
 
-##¿Te interesa mi perfil? ¡No dudes en contactarme! 📩😉
+## ¿Te interesa mi perfil? ¡No dudes en contactarme! 📩😉
 - Email: chavezbraian1999onlywork@gmail.com 📩
 - WhatsApp: +54 221 3141464
 
