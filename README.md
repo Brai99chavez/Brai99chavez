@@ -24,6 +24,7 @@ Soy una persona con unas amplias ganas y capacidad de aprendizaje , aplicable en
 
 ## ¿Te interesa mi perfil? ¡No dudes en contactarme! 📩😉
 - Email: chavezbraian1999onlywork@gmail.com 📩
+- LinkedIn: https://www.linkedin.com/in/braian-chavez/
 - WhatsApp: +54 221 3141464
 
 
