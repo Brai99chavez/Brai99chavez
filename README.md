@@ -34,11 +34,22 @@ El código es privado. Si querés verla funcionando, escribime.
 
 **¿Necesitás una web, una landing o una tienda online?** Mirá los [planes](https://www.bclandinglab.com/otros-servicios.html) o escribime por [WhatsApp](https://wa.me/5492216948327) o por [mail](mailto:chavezbraian1999onlywork@gmail.com).
 
-## 📱 Apps y proyectos
+## 📱 Apps funcionando
 
-- **[Canchero](https://github.com/Brai99chavez/canchero)**: app para el celular que arma equipos de fútbol parejos ([bajar para Android](https://drive.google.com/file/d/1gBd2I-rGkXdG2EigBvf4lFcoN2NgigeP/view?usp=sharing)). Expo, React Native y Node.js.
-- **[OnlyPan](https://github.com/Brai99chavez/onlypan-frontend)**: tienda online de una panadería, hecha en equipo. React, Redux, Express y Stripe.
-- **[Combi 19](https://github.com/Brai99chavez/Combi_19)**: sistema de viajes en combi, hecho en equipo. Laravel y MySQL.
+<img src="https://raw.githubusercontent.com/Brai99chavez/canchero/main/assets/icon.png" alt="Ícono de Canchero" width="64" />
+
+**[Canchero](https://github.com/Brai99chavez/canchero)** · App para Android · **[Bajar el APK](https://drive.google.com/file/d/1gBd2I-rGkXdG2EigBvf4lFcoN2NgigeP/view?usp=sharing)**
+
+Arma equipos de fútbol parejos para grupos de amigos: fichas de jugadores estilo FIFA, sorteo equilibrado por atributos y posiciones, historial de partidos con tabla de posiciones, amigos y chat. Funciona sin internet y, con una cuenta, guarda todo en la nube.
+
+`Expo` `React Native` `TypeScript` `Node.js` `PostgreSQL`
+
+## 📚 Proyectos de formación
+
+Proyectos en equipo de mis comienzos. El código está para ver, pero no tienen una versión publicada.
+
+- **[OnlyPan](https://github.com/Brai99chavez/onlypan-frontend)** (2022): tienda online de una panadería. React, Redux, Express y Stripe.
+- **[Combi 19](https://github.com/Brai99chavez/Combi_19)** (2021): sistema de viajes en combi. Laravel y MySQL.
 
 ## 💼 Experiencia
 
