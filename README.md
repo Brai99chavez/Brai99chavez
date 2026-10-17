@@ -21,6 +21,8 @@ Una plataforma para comercios: cada negocio tiene su tienda online, su panel de 
 
 El código es privado. Si querés verla funcionando, escribime.
 
+**Servicios secundarios:** también armo **landing pages y portfolios** para negocios y profesionales, pensados para recibir consultas por WhatsApp, adaptados al celular y con entrega rápida. [Ver servicios y planes](https://www.bclandinglab.com/otros-servicios.html).
+
 ## 🌐 Sitios para clientes
 
 | Sitio | Qué es |
@@ -30,7 +32,7 @@ El código es privado. Si querés verla funcionando, escribime.
 | [Amelie Frum](https://ameliefrumm.netlify.app/) | Portfolio de una productora, guionista y filmmaker |
 | [Agustín Reyes](https://agustinreyess.netlify.app/) | Portfolio de un realizador y editor audiovisual |
 
-**¿Necesitás una web, una landing o una tienda online?** Escribime por [WhatsApp](https://wa.me/5492213141464) o por [mail](mailto:chavezbraian1999onlywork@gmail.com).
+**¿Necesitás una web, una landing o una tienda online?** Mirá los [planes](https://www.bclandinglab.com/otros-servicios.html) o escribime por [WhatsApp](https://wa.me/5492213141464) o por [mail](mailto:chavezbraian1999onlywork@gmail.com).
 
 ## 📱 Apps y proyectos
 
