@@ -37,9 +37,7 @@ El código es privado. Si querés verla funcionando, escribime.
 ## 📱 Apps y proyectos
 
 - **[Canchero](https://github.com/Brai99chavez/canchero)**: app para el celular que arma equipos de fútbol parejos ([bajar para Android](https://drive.google.com/file/d/1gBd2I-rGkXdG2EigBvf4lFcoN2NgigeP/view?usp=sharing)). Expo, React Native y Node.js.
-- **[OnlyNotes](https://github.com/Brai99chavez/OnlyNotes)**: app de notas con categorías y archivo ([verla](https://only-notes.vercel.app/)). React, Express y PostgreSQL.
 - **[OnlyPan](https://github.com/Brai99chavez/onlypan-frontend)**: tienda online de una panadería, hecha en equipo. React, Redux, Express y Stripe.
-- **[Pokémon App](https://github.com/Brai99chavez/P.i-PokeApi)**: proyecto individual del bootcamp Henry. React, Redux, Express y PostgreSQL.
 - **[Combi 19](https://github.com/Brai99chavez/Combi_19)**: sistema de viajes en combi, hecho en equipo. Laravel y MySQL.
 
 ## 💼 Experiencia
