@@ -1,44 +1,61 @@
+# Hola, soy Braian Chavez 👋
 
-# Hola! Soy Braian Chavez🙋
-Me gusta el desarrollo web desde muy chico y me encanto aprender de este inmenso mundo de la programacion. 
+Desarrollador full stack en La Plata, Argentina. Estoy construyendo **BC Landing Lab**, una plataforma para que los comercios vendan online y en su local, y hago sitios web, landings y portfolios para negocios y profesionales.
 
-## ¿Qué me destaca? 
-Soy una persona con unas amplias ganas y capacidad de aprendizaje , aplicable en mi día a día y capaz de adaptarme a los distintos desafíos que se presenten en el camino. Siempre dispuesto a ayudar y aprender de quienes me rodean.
+📩 [chavezbraian1999onlywork@gmail.com](mailto:chavezbraian1999onlywork@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/braian-chavez/) · 💬 [WhatsApp](https://wa.me/5492213141464)
 
-## Mi historial laboral 
- ►  Frontend Developer 
- - mi funcion era hacer el maquetado y el diseño de la pagina
- - actualmente esta en funcionamiento: https://institutodeidiomasmglots.com.ar
+---
 
- ►  Henry Teaching Assistant 
- - mi funcion era guiar, orientar y asistir en los distintos problemas que se les presentan en la 
- cursada diaria 
+## 🛒 BC Landing Lab, mi proyecto principal
 
-## ¿Cuáles son mis Tech Skills? 
--- Como desarrollador Full-Stack me he dedicado a aprender de las siguientes tecnologías:
-- Javascript 
-- React, Redux, CSS, HTML 
-- Node.JS, Express 
-- PostreSQL, Sequelize 
-- Php, Laravel
+**[bclandinglab.com](https://www.bclandinglab.com)** · En producción
 
-## ¿Te interesa mi perfil? ¡No dudes en contactarme! 📩😉
-- Email: chavezbraian1999onlywork@gmail.com 📩
-- LinkedIn: https://www.linkedin.com/in/braian-chavez/
-- WhatsApp: +54 221 3141464
+Una plataforma para comercios: cada negocio tiene su tienda online, su panel de gestión y su mostrador para vender en el local.
 
+- **Tienda online** con cobro por Mercado Pago o transferencia, envíos por Correo Argentino o propios, y retiro en el local.
+- **Mostrador (punto de venta)** con QR y Point de Mercado Pago, lector de códigos de barras e impresora de tickets.
+- **Facturación electrónica** con ARCA (facturas A, B y C).
+- **Panel** para manejar productos, stock, ventas, clientes y sucursales, con avisos en el celular.
 
-<!--
-**Brai99chavez/Brai99chavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `Prisma` `PostgreSQL` `Vercel` `Render`
 
-Here are some ideas to get you started:
+El código es privado. Si querés verla funcionando, escribime.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Sitios para clientes
+
+| Sitio | Qué es |
+|---|---|
+| [Bross Barber Club](https://brossbarberclub.com/) | Barbería en La Plata: turnos, sucursales, servicios y cursos |
+| [CHADE](https://www.chadeoficial.com/) | Marca de ropa: colección, locales y consultas por WhatsApp |
+| [Amelie Frum](https://ameliefrumm.netlify.app/) | Portfolio de una productora, guionista y filmmaker |
+| [Agustín Reyes](https://agustinreyess.netlify.app/) | Portfolio de un realizador y editor audiovisual |
+
+**¿Necesitás una web, una landing o una tienda online?** Escribime por [WhatsApp](https://wa.me/5492213141464) o por [mail](mailto:chavezbraian1999onlywork@gmail.com).
+
+## 📱 Apps y proyectos
+
+- **[Canchero](https://github.com/Brai99chavez/canchero)**: app para el celular que arma equipos de fútbol parejos. Expo, React Native y Node.js.
+- **[OnlyNotes](https://github.com/Brai99chavez/OnlyNotes)**: app de notas con categorías y archivo ([verla](https://only-notes.vercel.app/)). React, Express y PostgreSQL.
+- **[OnlyPan](https://github.com/Brai99chavez/onlypan-frontend)**: tienda online de una panadería, hecha en equipo. React, Redux, Express y Stripe.
+- **[Pokémon App](https://github.com/Brai99chavez/P.i-PokeApi)**: proyecto individual del bootcamp Henry. React, Redux, Express y PostgreSQL.
+- **[Combi 19](https://github.com/Brai99chavez/Combi_19)**: sistema de viajes en combi, hecho en equipo. Laravel y MySQL.
+
+## 💼 Experiencia
+
+- **Kubrik** · Desarrollador full stack *(actual)*. Sistemas de gestión (ERP), punto de venta y aplicaciones internas con Java (Spring Boot) y Angular, pruebas con Playwright y JMeter, y Docker.
+- **Instituto MG/LOTS** · Frontend. Maquetado y diseño de [su sitio](https://institutodeidiomasmglots.com.ar).
+- **Henry** · Teaching Assistant. Acompañaba a los estudiantes del bootcamp en la cursada diaria.
+
+## 🛠️ Tecnologías
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,redux,tailwind,nodejs,express,java,spring,php,laravel,postgres,prisma,mysql,docker,vercel,netlify&perline=10" alt="JavaScript, TypeScript, React, Next.js, Angular, Redux, Tailwind CSS, Node.js, Express, Java, Spring, PHP, Laravel, PostgreSQL, Prisma, MySQL, Docker, Vercel, Netlify" />
+
+- **Frontend:** JavaScript, TypeScript, React, Next.js, Angular, Redux y Tailwind CSS.
+- **Backend:** Node.js, Express, Java con Spring Boot y PHP con Laravel.
+- **Bases de datos:** PostgreSQL, Prisma, Sequelize y MySQL.
+- **Mobile:** React Native y Expo.
+- **Pruebas y deploy:** Vitest, Playwright, JMeter, Docker, Vercel, Render y Netlify.
+
+---
+
+Abierto a nuevas oportunidades laborales y a proyectos con clientes.
