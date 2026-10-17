@@ -2,7 +2,7 @@
 
 Desarrollador full stack en La Plata, Argentina. Estoy construyendo **BC Landing Lab**, una plataforma para que los comercios vendan online y en su local, y hago sitios web, landings y portfolios para negocios y profesionales.
 
-📩 [chavezbraian1999onlywork@gmail.com](mailto:chavezbraian1999onlywork@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/braian-chavez/) · 💬 [WhatsApp](https://wa.me/5492213141464)
+📩 [chavezbraian1999onlywork@gmail.com](mailto:chavezbraian1999onlywork@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/braian-chavez/) · 💬 [WhatsApp](https://wa.me/5492216948327)
 
 ---
 
@@ -32,7 +32,7 @@ El código es privado. Si querés verla funcionando, escribime.
 | [Amelie Frum](https://ameliefrumm.netlify.app/) | Portfolio de una productora, guionista y filmmaker |
 | [Agustín Reyes](https://agustinreyess.netlify.app/) | Portfolio de un realizador y editor audiovisual |
 
-**¿Necesitás una web, una landing o una tienda online?** Mirá los [planes](https://www.bclandinglab.com/otros-servicios.html) o escribime por [WhatsApp](https://wa.me/5492213141464) o por [mail](mailto:chavezbraian1999onlywork@gmail.com).
+**¿Necesitás una web, una landing o una tienda online?** Mirá los [planes](https://www.bclandinglab.com/otros-servicios.html) o escribime por [WhatsApp](https://wa.me/5492216948327) o por [mail](mailto:chavezbraian1999onlywork@gmail.com).
 
 ## 📱 Apps y proyectos
 
