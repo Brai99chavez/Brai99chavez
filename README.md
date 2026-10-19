@@ -38,7 +38,7 @@ El código es privado. Si querés verla funcionando, escribime.
 
 <img src="https://raw.githubusercontent.com/Brai99chavez/canchero/main/assets/icon.png" alt="Ícono de Canchero" width="64" />
 
-**[Canchero](https://github.com/Brai99chavez/canchero)** · App para Android · **[Bajar el APK](https://drive.google.com/file/d/1gBd2I-rGkXdG2EigBvf4lFcoN2NgigeP/view?usp=sharing)**
+**[Canchero](https://github.com/Brai99chavez/canchero)** · App para Android · **[Bajar el APK](https://drive.google.com/file/d/1w4g2QvYaEIQfrqRV4L-CyZq4d3zhoEpK/view?usp=sharing)**
 
 Arma equipos de fútbol parejos para grupos de amigos: fichas de jugadores estilo FIFA, sorteo equilibrado por atributos y posiciones, historial de partidos con tabla de posiciones, amigos y chat. Funciona sin internet y, con una cuenta, guarda todo en la nube.
 
