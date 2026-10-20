@@ -31,6 +31,7 @@ El código es privado. Si querés verla funcionando, escribime.
 | [CHADE](https://www.chadeoficial.com/) | Marca de ropa: colección, locales y consultas por WhatsApp |
 | [Amelie Frum](https://ameliefrumm.netlify.app/) | Portfolio de una productora, guionista y filmmaker |
 | [Agustín Reyes](https://agustinreyess.netlify.app/) | Portfolio de un realizador y editor audiovisual |
+| [Julián Gallardo](https://julian-gallardo.netlify.app/) | Portfolio de un fotógrafo y filmmaker: videoclips, video para marcas y fotografía |
 
 **¿Necesitás una web, una landing o una tienda online?** Mirá los [planes](https://www.bclandinglab.com/otros-servicios.html) o escribime por [WhatsApp](https://wa.me/5492216948327) o por [mail](mailto:chavezbraian1999onlywork@gmail.com).
 
