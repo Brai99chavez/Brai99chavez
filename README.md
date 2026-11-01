@@ -19,9 +19,9 @@ Una plataforma para comercios: cada negocio tiene su tienda online, su panel de 
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `Prisma` `PostgreSQL` `Vercel` `Render`
 
-El código es privado. Si querés verla funcionando, escribime.
+El código es privado.
 
-**Servicios secundarios:** también armo **landing pages y portfolios** para negocios y profesionales, pensados para recibir consultas por WhatsApp, adaptados al celular y con entrega rápida. [Ver servicios y planes](https://www.bclandinglab.com/otros-servicios.html).
+**Mis servicios:** Armo **landing pages y portfolios** para negocios y profesionales, pensados para recibir consultas por WhatsApp, adaptados al celular y con entrega rápida. [Ver servicios y planes](https://www.bclandinglab.com/otros-servicios.html).
 
 ## 🌐 Sitios para clientes
 
