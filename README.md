@@ -6,7 +6,7 @@ Desarrollador full stack en La Plata, Argentina. Estoy construyendo **BC Landing
 
 ---
 
-## 🛒 BC Landing Lab, mi proyecto principal
+## 🛒 BC Landing Lab, mi proyecto personal
 
 **[bclandinglab.com](https://www.bclandinglab.com)** · En producción
 
@@ -27,13 +27,13 @@ El código es privado. Si querés verla funcionando, escribime.
 
 | Sitio | Qué es |
 |---|---|
-| [Bross Barber Club](https://brossbarberclub.com/) | Barbería en La Plata: turnos, sucursales, servicios y cursos |
-| [CHADE](https://www.chadeoficial.com/) | Marca de ropa: colección, locales y consultas por WhatsApp |
+| [Bross Barber Club](https://brossbarberclub.com/) | Landing de Barbería en La Plata: turnos, sucursales, servicios y cursos |
+| [CHADE](https://www.chadeoficial.com/) | Landing de Marca de ropa: colección, locales y consultas por WhatsApp |
 | [Amelie Frum](https://ameliefrumm.netlify.app/) | Portfolio de una productora, guionista y filmmaker |
 | [Agustín Reyes](https://agustinreyess.netlify.app/) | Portfolio de un realizador y editor audiovisual |
 | [Julián Gallardo](https://julian-gallardo.netlify.app/) | Portfolio de un fotógrafo y filmmaker: videoclips, video para marcas y fotografía |
 
-**¿Necesitás una web, una landing o una tienda online?** Mirá los [planes](https://www.bclandinglab.com/otros-servicios.html) o escribime por [WhatsApp](https://wa.me/5492216948327) o por [mail](mailto:chavezbraian1999onlywork@gmail.com).
+**¿Necesitás una web, una landing o un portfolio?** Mirá los [planes](https://www.bclandinglab.com/otros-servicios.html) o escribime por [WhatsApp](https://wa.me/5492216948327) o por [mail](mailto:chavezbraian1999onlywork@gmail.com).
 
 ## 📱 Apps funcionando
 
