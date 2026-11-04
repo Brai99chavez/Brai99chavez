@@ -1,39 +1,24 @@
 # Hola, soy Braian Chavez 👋
 
-Desarrollador full stack en La Plata, Argentina. Estoy construyendo **BC Landing Lab**, una plataforma para que los comercios vendan online y en su local, y hago sitios web, landings y portfolios para negocios y profesionales.
+Desarrollador full stack con foco en frontend (React y TypeScript), en La Plata, Argentina. Con **BC Landing Lab** hago sitios web, landings y portfolios para negocios y profesionales.
 
 📩 [chavezbraian1999onlywork@gmail.com](mailto:chavezbraian1999onlywork@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/braian-chavez/) · 💬 [WhatsApp](https://wa.me/5492216948327)
 
 ---
 
-## 🛒 BC Landing Lab, mi proyecto personal
+## 🛒 E-commerce full stack, proyecto personal
 
-**[bclandinglab.com](https://www.bclandinglab.com)** · En producción
+**[app.bclandinglab.com](https://app.bclandinglab.com/)** · 2026
 
-Una plataforma para comercios: cada negocio tiene su tienda online, su panel de gestión y su mostrador para vender en el local.
+Una tienda online con su panel de gestión: cada negocio tiene su tienda y su panel para manejar productos, stock, ventas y clientes.
 
-- **Tienda online** con cobro por Mercado Pago o transferencia, envíos por Correo Argentino o propios, y retiro en el local.
-- **Mostrador (punto de venta)** con QR y Point de Mercado Pago, lector de códigos de barras e impresora de tickets.
-- **Facturación electrónica** con ARCA (facturas A, B y C).
-- **Panel** para manejar productos, stock, ventas, clientes y sucursales, con avisos en el celular.
+- **Panel y tienda** en Next.js, React, TypeScript y Tailwind CSS, adaptados al celular.
+- **Cobros** con Mercado Pago, **envíos** con Correo Argentino y **facturación electrónica** con ARCA.
+- **Backend** en Node.js, Express, Prisma y PostgreSQL.
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Node.js` `Express` `Prisma` `PostgreSQL` `Vercel` `Render`
 
 El código es privado.
-
-**Mis servicios:** Armo **landing pages y portfolios** para negocios y profesionales, pensados para recibir consultas por WhatsApp, adaptados al celular y con entrega rápida. [Ver servicios y planes](https://www.bclandinglab.com/otros-servicios.html).
-
-## 🌐 Sitios para clientes
-
-| Sitio | Qué es |
-|---|---|
-| [Bross Barber Club](https://brossbarberclub.com/) | Landing de Barbería en La Plata: turnos, sucursales, servicios y cursos |
-| [CHADE](https://www.chadeoficial.com/) | Landing de Marca de ropa: colección, locales y consultas por WhatsApp |
-| [Amelie Frum](https://ameliefrumm.netlify.app/) | Portfolio de una productora, guionista y filmmaker |
-| [Agustín Reyes](https://agustinreyess.netlify.app/) | Portfolio de un realizador y editor audiovisual |
-| [Julián Gallardo](https://julian-gallardo.netlify.app/) | Portfolio de un fotógrafo y filmmaker: videoclips, video para marcas y fotografía |
-
-**¿Necesitás una web, una landing o un portfolio?** Mirá los [planes](https://www.bclandinglab.com/otros-servicios.html) o escribime por [WhatsApp](https://wa.me/5492216948327) o por [mail](mailto:chavezbraian1999onlywork@gmail.com).
 
 ## 📱 Apps funcionando
 
@@ -45,6 +30,22 @@ Arma equipos de fútbol parejos para grupos de amigos: fichas de jugadores estil
 
 `Expo` `React Native` `TypeScript` `Node.js` `PostgreSQL`
 
+## 🌐 BC Landing Lab: sitios y portfolios para clientes
+
+**[bclandinglab.com](https://www.bclandinglab.com/)** · Freelance desde 2025
+
+Armo landing pages y portfolios para negocios y profesionales, pensados para recibir consultas por WhatsApp y adaptados al celular.
+
+| Sitio | Qué es |
+|---|---|
+| [Bross Barber Club](https://brossbarberclub.com/) | Landing de Barbería en La Plata: turnos, sucursales, servicios y cursos |
+| [CHADE](https://www.chadeoficial.com/) | Landing de Marca de ropa: colección, locales y consultas por WhatsApp |
+| [Amelie Frum](https://ameliefrumm.netlify.app/) | Portfolio de una productora, guionista y filmmaker |
+| [Agustín Reyes](https://agustinreyess.netlify.app/) | Portfolio de un realizador y editor audiovisual |
+| [Julián Gallardo](https://julian-gallardo.netlify.app/) | Portfolio de un fotógrafo y filmmaker: videoclips, video para marcas y fotografía |
+
+**¿Necesitás una web, una landing o un portfolio?** Mirá los [planes](https://www.bclandinglab.com/) o escribime por [WhatsApp](https://wa.me/5492216948327) o por [mail](mailto:chavezbraian1999onlywork@gmail.com).
+
 ## 📚 Proyectos de formación
 
 Proyectos en equipo de mis comienzos. El código está para ver, pero no tienen una versión publicada.
@@ -54,9 +55,10 @@ Proyectos en equipo de mis comienzos. El código está para ver, pero no tienen 
 
 ## 💼 Experiencia
 
-- **Kubrik** · Desarrollador full stack *(actual)*. Sistemas de gestión (ERP), punto de venta y aplicaciones internas con Java (Spring Boot) y Angular, pruebas con Playwright y JMeter, y Docker.
-- **Instituto MG/LOTS** · Frontend. Maquetado y diseño de [su sitio](https://institutodeidiomasmglots.com.ar).
-- **Henry** · Teaching Assistant. Acompañaba a los estudiantes del bootcamp en la cursada diaria.
+- **BC Landing Lab** · Diseño web freelance *(2025 – actualidad)*. Landings y portfolios para negocios y profesionales.
+- **Kubrik** · Desarrollador full stack *(11/2022 – 11/2026)*. Sistemas de gestión y aplicaciones internas con Java (Spring Boot) y Angular, pruebas con Playwright y JMeter, y Docker.
+- **Henry** · Teaching Assistant *(06/2022 – 09/2022)*. Acompañaba a los estudiantes del bootcamp en la cursada diaria.
+- **Instituto MG/LOTS** · Frontend *(01/2021 – 06/2021)*. Maquetado y diseño de [su sitio](https://institutodeidiomasmglots.com.ar).
 
 ## 🛠️ Tecnologías
 
