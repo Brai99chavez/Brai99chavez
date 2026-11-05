@@ -6,7 +6,9 @@ Desarrollador full stack con foco en frontend (React y TypeScript), en La Plata,
 
 ---
 
-## 🛒 E-commerce full stack, proyecto personal
+## 🚀 Proyectos personales
+
+### 🛒 E-commerce full stack
 
 **[app.bclandinglab.com](https://app.bclandinglab.com/)** · 2026
 
@@ -20,7 +22,7 @@ Una tienda online con su panel de gestión: cada negocio tiene su tienda y su pa
 
 El código es privado.
 
-## 📱 Apps funcionando
+### 📱 Canchero
 
 <img src="https://raw.githubusercontent.com/Brai99chavez/canchero/main/assets/icon.png" alt="Ícono de Canchero" width="64" />
 
@@ -30,19 +32,26 @@ Arma equipos de fútbol parejos para grupos de amigos: fichas de jugadores estil
 
 `Expo` `React Native` `TypeScript` `Node.js` `PostgreSQL`
 
-## 🌐 BC Landing Lab: sitios y portfolios para clientes
+## 🌐 Trabajo freelance
 
-**[bclandinglab.com](https://www.bclandinglab.com/)** · Freelance desde 2025
+**[BC Landing Lab](https://www.bclandinglab.com/)** · Sitios y portfolios para clientes · Desde 2025
 
 Armo landing pages y portfolios para negocios y profesionales, pensados para recibir consultas por WhatsApp y adaptados al celular.
 
+### Landings
+
 | Sitio | Qué es |
 |---|---|
-| [Bross Barber Club](https://brossbarberclub.com/) | Landing de Barbería en La Plata: turnos, sucursales, servicios y cursos |
-| [CHADE](https://www.chadeoficial.com/) | Landing de Marca de ropa: colección, locales y consultas por WhatsApp |
-| [Amelie Frum](https://ameliefrumm.netlify.app/) | Portfolio de una productora, guionista y filmmaker |
-| [Agustín Reyes](https://agustinreyess.netlify.app/) | Portfolio de un realizador y editor audiovisual |
-| [Julián Gallardo](https://julian-gallardo.netlify.app/) | Portfolio de un fotógrafo y filmmaker: videoclips, video para marcas y fotografía |
+| [Bross Barber Club](https://brossbarberclub.com/) | Barbería en La Plata: turnos, sucursales, servicios y cursos |
+| [CHADE](https://www.chadeoficial.com/) | Marca de ropa: colección, locales y consultas por WhatsApp |
+
+### Portfolios
+
+| Sitio | Qué es |
+|---|---|
+| [Amelie Frum](https://ameliefrumm.netlify.app/) | Productora, guionista y filmmaker |
+| [Agustín Reyes](https://agustinreyess.netlify.app/) | Realizador y editor audiovisual |
+| [Julián Gallardo](https://julian-gallardo.netlify.app/) | Fotógrafo y filmmaker: videoclips, video para marcas y fotografía |
 
 **¿Necesitás una web, una landing o un portfolio?** Mirá los [planes](https://www.bclandinglab.com/) o escribime por [WhatsApp](https://wa.me/5492216948327) o por [mail](mailto:chavezbraian1999onlywork@gmail.com).
 
